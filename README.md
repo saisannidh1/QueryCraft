@@ -1,8 +1,7 @@
 # 🤖 QueryCraft: Conversational SQL Assistant
 
-**[Live Demo Link](https://your-deployed-streamlit-app-url.streamlit.app/)**
+**[Live Demo Link](https://querycraft-axecj58tb9tar6tzeqgmhe.streamlit.app/)**
 
-![QueryCraft Demo GIF](link-to-your-demo-gif-or-screenshot)
 
 A conversational AI application that allows users to query a database using natural language. This project leverages Google's Gemini Pro to translate English questions into SQL queries, executes them, and displays the results in a user-friendly chat interface.
 
