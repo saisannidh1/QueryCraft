@@ -6,7 +6,6 @@
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google)](https://ai.google.dev/)
 
 **[Live Demo Link](https://querycraft-axecj58tb9tar6tzeqgmhe.streamlit.app/)**
-![QueryCraft Demo GIF](link-to-your-demo-gif-or-screenshot) ← *Replace this with a GIF or screenshot of your app.*
 
 QueryCraft is a smart SQL assistant that allows users to have a natural language conversation with their databases. Upload your own SQLite database or use the built-in Chinook music sample to get started. This project leverages Google's Gemini Pro to translate English questions into SQL queries, executes them, and displays the results in a user-friendly chat interface.
 
